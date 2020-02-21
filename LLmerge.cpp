@@ -93,7 +93,7 @@ int main() {
     node*head=NULL;
 
 
-cin>>head;
+cin>>head>>head1;
 cout<<head;
 node *m=midpoint(head);
 cout<<m->data<<endl;
